@@ -3,7 +3,7 @@ Projeto barbearia feito em node e react
 
 # Criando aplicação node com yarn
   
-  1) Segue abaixo os comando de criaçã do backend.
+  1) Segue abaixo os comandos da criação do backend.
      comando: mkdir prjeto
      comando: cd prjeto
      comando: yarn init -y 
@@ -20,7 +20,7 @@ Projeto barbearia feito em node e react
        "dependencies": {
        "express": "^4.17.1"
     }
-4) Nesse item iremos criar uma pasta src e dentro dela três arquivos, app.js, routes e sever.js.
+4) Nesse item iremos criar uma pasta src e dentro dela três arquivos, app.js, routes.js e sever.js.
      O arquivo app.js é onde vai ficar configurado o servidor express 
      O arquivo routes já fala por se só, arquivo onde ficará as rotas  
      O arquivo sever.js onde iremos chamar a aplicação na porta especifica 
